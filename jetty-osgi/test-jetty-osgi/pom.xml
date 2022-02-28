@@ -96,7 +96,7 @@
     <dependency>
       <groupId>biz.aQute.bnd</groupId>
       <artifactId>biz.aQute.bndlib</artifactId>
-      <version>5.0.0</version>
+      <version>6.2.0</version>
       <exclusions>
         <exclusion>
           <groupId>org.osgi</groupId>
