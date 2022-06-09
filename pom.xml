@@ -32,7 +32,7 @@
     <asciidoctorj.version>2.5.4</asciidoctorj.version>
     <asm.version>9.3</asm.version>
     <awaitility.version>4.2.0</awaitility.version>
-    <bndlib.version>6.3.0</bndlib.version>
+    <bndlib.version>6.3.1</bndlib.version>
     <build-support.version>1.5</build-support.version>
     <checkstyle.version>10.3</checkstyle.version>
     <commons-codec.version>1.15</commons-codec.version>
@@ -85,7 +85,7 @@
     <jboss-threads.version>3.1.0.Final</jboss-threads.version>
     <jetty-assembly-descriptors.version>1.1</jetty-assembly-descriptors.version>
     <jetty.perf-helper.version>1.0.7</jetty.perf-helper.version>
-    <jetty-quiche-native.version>0.12.0</jetty-quiche-native.version>
+    <jetty-quiche-native.version>0.13.0</jetty-quiche-native.version>
     <jetty.servlet.api.version>4.0.6</jetty.servlet.api.version>
     <jetty-test-policy.version>1.2</jetty-test-policy.version>
     <jetty.test.version>5.9</jetty.test.version>
